@@ -1,0 +1,22 @@
+[
+  {
+    Age: 25,
+    "expectedresult": "true"
+  },
+  {
+    "Age": 27,
+    "expectedresult": "true"
+  },
+  {
+    "Age": 20,
+    "expectedresult": "true"
+  },
+  {
+    "Age": 60,
+    "expectedresult": "false"
+  },
+  {
+    "Age": 70,
+    "expectedresult": "false"
+  }
+]
